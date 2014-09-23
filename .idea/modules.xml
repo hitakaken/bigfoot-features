@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apache-commons-features/apache-commons-features.iml" filepath="$PROJECT_DIR$/apache-commons-features/apache-commons-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigfoot-features.iml" filepath="$PROJECT_DIR$/bigfoot-features.iml" />
+    </modules>
+  </component>
+</project>
+

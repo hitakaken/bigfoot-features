@@ -1,0 +1,3 @@
+rootProject.name = 'bigfoot-features'
+
+include 'apache-commons-features'
